@@ -1,16 +1,19 @@
-<<<<<<< HEAD
-# Build a react tailwind calendar ui from scratch
+# 3D Hanging Wall Calendar
 
-Learn how to create a calendar from scratch with dynamic content.
+A React-based calendar application designed to mimic a physical wall calendar hanging on a sea-blue painted wall, featuring a 3D "book-turn" page animation.
 
-watch the tutorial: https://youtu.be/s9-K02CP8hw
+## 🚀 Key Choices & Features
 
-<img width="1406" alt="swag" src="https://user-images.githubusercontent.com/52232579/199394208-77787073-9d2e-40f0-885f-be81a2c6eb4c.png">
+- **Aesthetic:** Designed with a "Sea Blue" background (`#006994`) and a decorative nail to simulate a physical environment.
+- **3D Animations:** Implemented CSS `perspective` and `rotateY` transforms with `origin-left` to create a realistic page-turning effect similar to a book or a flip-calendar.
+- **Tech Stack:**
+  - **React:** For component-based UI management.
+  - **Tailwind CSS:** Used for all styling, including custom 3D arbitrary values.
+  - **Dayjs:** A lightweight library for date manipulation and calendar generation.
+  - **React Icons:** Specifically `gr` (Grommet) icons for clean navigation.
 
-## Built With
+## 🛠️ How to Run Locally
 
--   [React](https://reactjs.org/)
--   [Tailwind CSS](https://tailwindcss.com)
-=======
-# calendarapp
->>>>>>> e973bd0e189c76426fb1b87bb687ce24710721de
+1.npm install
+2.npm start
+The app will run at http://localhost:3000.
