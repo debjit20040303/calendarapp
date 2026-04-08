@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Build a react tailwind calendar ui from scratch
 
 Learn how to create a calendar from scratch with dynamic content.
@@ -10,3 +11,6 @@ watch the tutorial: https://youtu.be/s9-K02CP8hw
 
 -   [React](https://reactjs.org/)
 -   [Tailwind CSS](https://tailwindcss.com)
+=======
+# calendarapp
+>>>>>>> e973bd0e189c76426fb1b87bb687ce24710721de
