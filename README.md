@@ -17,3 +17,5 @@ A React-based calendar application designed to mimic a physical wall calendar ha
 1.npm install
 2.npm start
 The app will run at http://localhost:3000.
+
+![This is the demo video](https://github.com/debjit20040303/calendarapp/blob/main/20260408_19_25_26_927.mp4)
